@@ -2,4 +2,3 @@ node-modules
 uploads
 *.log
 coverage
-AWS와 GCP로 배포하기
