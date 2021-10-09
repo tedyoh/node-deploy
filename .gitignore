@@ -1,0 +1,4 @@
+node-modules
+uploads
+*.log
+coverage
