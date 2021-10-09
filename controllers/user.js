@@ -16,5 +16,3 @@ exports.addFollowing = async (req, res, next) => {
     next(error);
   }
 };
-
-//컨트롤러를 분리했으므로 routes/user.js 도 따라서 수정합니다.
